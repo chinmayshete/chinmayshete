@@ -23,21 +23,6 @@ If you're into GenAI engineering, cloud data pipelines, or just want to talk abo
 
 ---
 
-## GitHub Activity
-
-[![Chinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmayshete&theme=github-compact&hide_border=true&area=true)](https://github.com/chinmayshete)
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayshete&theme=default" width="100%"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinmayshete&theme=default" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinmayshete&theme=default&utcOffset=5.5" height="165"/>
-</p>
-
----
-
 - 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-4.1**
 - 🌱 I'm currently levelling up on **Snowflake (SnowPro Core)**
 - 👯 I'm looking to collaborate on **LLM-powered data engineering tools**
@@ -82,7 +67,7 @@ If you're into GenAI engineering, cloud data pipelines, or just want to talk abo
   <a href="https://www.linkedin.com/in/chinmay-shete-64b5b4229/">
     <img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Shete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@chinmayshete33">
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
     <img src="https://img.shields.io/badge/Medium-@chinmayshete-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://github.com/chinmayshete">
