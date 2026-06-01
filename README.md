@@ -20,13 +20,13 @@ If you're interested in GenAI engineering, cloud data pipelines, or building AI 
 
 ---
 
-- 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-4.1**
+- 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-5.4**
 - 🌱 I'm currently levelling up on **Snowflake (SnowPro Core)**
 - 👯 I'm looking to collaborate on **LLM-powered data engineering tools**
 - 💬 Ask me about **Prompt Engineering, RAG, Snowflake, Azure AI, ETL pipelines**
 - 🏅 Certified: **SnowPro® Associate: Platform**
-- 📫 How to reach me: **[twitter.com/chinmay_shete](https://twitter.com/chinmay_shete)**
-- 📍 Latur, Maharashtra, India
+- 📫 How to reach me: **[linkedin.com/Chinmay Shete](https://www.linkedin.com/in/chinmay-shete-64b5b4229/)**
+- 📍 Pune, Maharashtra, India
 - 😄 Happy Building!
 
 ---
