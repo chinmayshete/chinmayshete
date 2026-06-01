@@ -82,7 +82,7 @@ If you're into GenAI engineering, cloud data pipelines, or just want to talk abo
   <a href="https://www.linkedin.com/in/chinmay-shete-64b5b4229/">
     <img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Shete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+  <a href="https://medium.com/@chinmayshete33">
     <img src="https://img.shields.io/badge/Medium-@chinmayshete-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://github.com/chinmayshete">
