@@ -2,30 +2,47 @@
 
 ## About Me
 
-As an **AI & Data Engineer** at Stratacent, I am passionate about building production-grade Generative AI applications, intelligent data pipelines, and cloud-native systems on **Azure, AWS, and Snowflake**. With hands-on experience across the full AI stack — from prompt engineering and RAG architectures to Snowpipe ingestion and real-time audio processing — I enjoy turning cutting-edge LLM capabilities into robust, deployable systems.
+I am a passionate **AI & Data Engineer** who loves building things that sit at the intersection of large language models and real-world data systems. From designing RAG pipelines and prompt engineering frameworks to wiring up cloud-native ETL workflows on **Azure, AWS, and Snowflake** — I enjoy the full journey from idea to production.
 
-My repositories span real-world projects: a **real-time AI interview assistant** with live audio capture, a **banking data quality monitoring pipeline** with Cortex AI dashboards, a **meeting minutes generator** with speaker diarization, and an **LLM-powered SAS→dbt migration agent**. I'm also a **SnowPro® Associate: Platform** certified professional, with SnowPro Core next on the list.
+My repositories reflect what I build and learn: a **real-time AI interview assistant** with live audio capture, a **banking data quality monitoring pipeline** with Cortex AI dashboards, a **meeting minutes generator** with speaker diarization, and an **LLM-powered SAS→dbt migration agent**. I'm also a **SnowPro® Associate: Platform** certified professional, with SnowPro Core next on the list.
 
-If you're interested in GenAI engineering, cloud data pipelines, or building AI products from scratch — check out my repos and feel free to reach out!
+If you're into GenAI engineering, cloud data pipelines, or just want to talk about building AI products — feel free to explore my repos and reach out!
 
 ---
 
 ## My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayshete&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/chinmayshete)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayshete&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayshete&layout=compact&hide_border=true" height="165"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmayshete&hide_border=true)](https://github.com/chinmayshete)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayshete&layout=compact&hide_border=true)](https://github.com/chinmayshete)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=chinmayshete&hide_border=true" />
+</p>
 
 ---
 
-- 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-5.4**
+## GitHub Activity
+
+[![Chinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmayshete&theme=github-compact&hide_border=true&area=true)](https://github.com/chinmayshete)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayshete&theme=default" width="100%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinmayshete&theme=default" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinmayshete&theme=default&utcOffset=5.5" height="165"/>
+</p>
+
+---
+
+- 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-4.1**
 - 🌱 I'm currently levelling up on **Snowflake (SnowPro Core)**
 - 👯 I'm looking to collaborate on **LLM-powered data engineering tools**
 - 💬 Ask me about **Prompt Engineering, RAG, Snowflake, Azure AI, ETL pipelines**
 - 🏅 Certified: **SnowPro® Associate: Platform**
-- 📫 How to reach me: **[linkedin.com/Chinmay Shete](https://www.linkedin.com/in/chinmay-shete-64b5b4229/)**
 - 📍 Pune, Maharashtra, India
 - 😄 Happy Building!
 
@@ -56,3 +73,19 @@ If you're interested in GenAI engineering, cloud data pipelines, or building AI 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chinmay-shete-64b5b4229/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Shete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+    <img src="https://img.shields.io/badge/Medium-@chinmayshete-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chinmayshete">
+    <img src="https://img.shields.io/badge/GitHub-chinmayshete-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
