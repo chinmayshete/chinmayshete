@@ -11,16 +11,6 @@ If you're into GenAI engineering, cloud data pipelines, or just want to talk abo
 ---
 
 ## My GitHub Stats
-
-<p align="left">
-  <img src="https://readme-stats.gg/api?username=chinmayshete&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://readme-stats.gg/api/top-langs/?username=chinmayshete&layout=compact&hide_border=true&langs_count=6" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=chinmayshete&hide_border=true" />
-</p>
-
 ---
 
 - 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-4.1**
