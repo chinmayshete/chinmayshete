@@ -11,6 +11,9 @@ If you're into GenAI engineering, cloud data pipelines, or just want to talk abo
 ---
 
 ## My GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmayshete&hide_border=true)](https://github.com/chinmayshete)
+
 ---
 
 - 🔭 I'm currently working on **GenAI apps using Azure OpenAI & GPT-4.1**
